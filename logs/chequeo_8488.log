@@ -1,0 +1,5 @@
+https://www.google.com - Código HTTP: 200
+https://www.wikipedia.org - Código HTTP: 200
+https://www.github.com - Código HTTP: 301
+https://httpbin.org/status/404 - Código HTTP: 404
+https://httpbin.org/status/500 - Código HTTP: 500
