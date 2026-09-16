@@ -2,26 +2,26 @@
 
 ## Tarea 1: Buscador de Versiones en PDF
 
-![Buscador de versiones PDF](pdfversion.png)
+![Buscador de versiones PDF](./pdfversion.png)
 
-![Resultado del buscador de versiones PDF](pdfversion1.png)
+![Resultado del buscador de versiones PDF](./pdfversion1.png)
 
 
 ## Tarea 2: Renombrador y Organizador Automático
 
-![Renombrador y organizador automático](organizador.png)
+![Renombrador y organizador automático](./organizador.png)
 
 
 ## Tarea 3: Monitoreo Interactivo de Recursos
 
-![Monitoreo interactivo de recursos](monitor.png)
+![Monitoreo interactivo de recursos](./monitorear.png)
 
 
 ## Tarea 4: Verificador de Sitios Web
 
-![Verificador de sitios web](chequearpag.png)
+![Verificador de sitios web](./chequearpag.png)
 
 
 ## Tarea 5: Respaldador con Prevención de Ejecución Simultánea
 
-![Respaldador con lockfile](copia%20de%20seguridad.png)
+![Respaldador con lockfile](./backup.png)
